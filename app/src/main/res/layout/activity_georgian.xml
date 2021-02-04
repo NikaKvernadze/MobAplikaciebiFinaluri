@@ -7,6 +7,48 @@
     android:layout_height="match_parent"
     tools:context=".GeorgianActivity">
 
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="81dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="9 ლ."
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView14"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="81dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="164dp"
+        android:gravity="center"
+        android:text="5 ლ."
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView15"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="69dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="396dp"
+        android:gravity="center"
+        android:text="0.90 ლ."
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/textView16"
+        app:layout_constraintTop_toTopOf="parent" />
+
     <EditText
         android:id="@+id/editTextNumber9"
         android:layout_width="137dp"
@@ -35,7 +77,7 @@
 
     <TextView
         android:id="@+id/textView15"
-        android:layout_width="176dp"
+        android:layout_width="141dp"
         android:layout_height="45dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
@@ -51,8 +93,8 @@
 
     <TextView
         android:id="@+id/textView16"
-        android:layout_width="176dp"
-        android:layout_height="45dp"
+        android:layout_width="137dp"
+        android:layout_height="43dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
         android:text="ხინკალი"
@@ -63,7 +105,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/imageView6"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.462" />
+        app:layout_constraintVertical_bias="0.469" />
 
     <EditText
         android:id="@+id/editTextNumber7"
@@ -149,8 +191,8 @@
 
     <TextView
         android:id="@+id/textView14"
-        android:layout_width="176dp"
-        android:layout_height="45dp"
+        android:layout_width="139dp"
+        android:layout_height="42dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
         android:text="მწვადი"
